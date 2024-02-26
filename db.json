@@ -1,0 +1,124 @@
+{
+    "exercicios": [
+      {
+        "id": 1,
+        "nome": "Corrida",
+        "descricao": "Corrida ao ar livre ou na esteira",
+        "nivelDificuldade": "iniciante",
+        "duracaoMinutos": 30,
+        "categoria": "Cardio"
+      },
+      {
+        "id": 2,
+        "nome": "Flexões",
+        "descricao": "Flexões de braço",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 15,
+        "categoria": "Força"
+      },
+      {
+        "id": 3,
+        "nome": "Agachamento",
+        "descricao": "Agachamento para fortalecimento das pernas",
+        "nivelDificuldade": "avancado",
+        "duracaoMinutos": 20,
+        "categoria": "Força"
+      },
+      {
+        "id": 4,
+        "nome": "Prancha",
+        "descricao": "Exercício de prancha para fortalecimento do core",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 10,
+        "categoria": "Core"
+      },
+      {
+        "id": 5,
+        "nome": "Abdominais",
+        "descricao": "Abdominais para fortalecimento do abdômen",
+        "nivelDificuldade": "iniciante",
+        "duracaoMinutos": 15,
+        "categoria": "Core"
+      },
+      {
+        "id": 6,
+        "nome": "Caminhada Rápida",
+        "descricao": "Caminhada rápida para exercitar as pernas",
+        "nivelDificuldade": "iniciante",
+        "duracaoMinutos": 25,
+        "categoria": "Cardio"
+      },
+      {
+        "id": 7,
+        "nome": "Yoga",
+        "descricao": "Prática de Yoga para relaxamento e flexibilidade",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 30,
+        "categoria": "Flexibilidade"
+      },
+      {
+        "id": 8,
+        "nome": "Levantamento de Peso",
+        "descricao": "Levantamento de peso para fortalecimento muscular",
+        "nivelDificuldade": "avancado",
+        "duracaoMinutos": 40,
+        "categoria": "Força"
+      },
+      {
+        "id": 9,
+        "nome": "Spinning",
+        "descricao": "Aula de spinning para condicionamento cardiovascular",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 45,
+        "categoria": "Cardio"
+      },
+      {
+        "id": 10,
+        "nome": "Alongamento",
+        "descricao": "Sessão de alongamento para melhorar a flexibilidade",
+        "nivelDificuldade": "iniciante",
+        "duracaoMinutos": 20,
+        "categoria": "Flexibilidade"
+      },
+      {
+        "id": 11,
+        "nome": "Pular Corda",
+        "descricao": "Atividade aeróbica de pular corda para queimar calorias",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 20,
+        "categoria": "Cardio"
+      },
+      {
+        "id": 12,
+        "nome": "Musculação",
+        "descricao": "Sessão de musculação para fortalecimento geral",
+        "nivelDificuldade": "avancado",
+        "duracaoMinutos": 50,
+        "categoria": "Força"
+      },
+      {
+        "id": 13,
+        "nome": "Pilates",
+        "descricao": "Exercícios de Pilates para fortalecimento do core e flexibilidade",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 35,
+        "categoria": "Core"
+      },
+      {
+        "id": 14,
+        "nome": "Natação",
+        "descricao": "Prática de natação para condicionamento físico geral",
+        "nivelDificuldade": "avancado",
+        "duracaoMinutos": 60,
+        "categoria": "Cardio"
+      },
+      {
+        "id": 15,
+        "nome": "Aeróbica",
+        "descricao": "Aula de aeróbica para queimar calorias e melhorar a resistência",
+        "nivelDificuldade": "intermediario",
+        "duracaoMinutos": 40,
+        "categoria": "Cardio"
+      }
+    ]
+  }
